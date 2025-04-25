@@ -8,5 +8,4 @@ Visualization: Fraud vs. Non-Fraud distribution, transaction amount patterns
 Deployment: Flask API for real-time fraud detection
 Tech Stack
 Python, Pandas, NumPy, Scikit-Learn, TensorFlow
-Matplotlib, Seaborn, Plotly
-Flask (for API integration)
+Matplotlib, Seaborn.
