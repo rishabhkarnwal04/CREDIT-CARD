@@ -175,8 +175,6 @@ print("\nTuned Random Forest")
 print(classification_report(Y_test, Y_pred))
 plot_conf_matrix(Y_test, Y_pred, "Tuned Random Forest")
 
-pip install streamlit
-
 import streamlit as st
 import pandas as pd
 import numpy as np
