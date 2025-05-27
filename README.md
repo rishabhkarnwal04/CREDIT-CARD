@@ -8,7 +8,7 @@ Credit Card Fraud Detection using Machine Learning
 **By:**
 Rishabh Karnwal
 
-
+---
 This project implements a machine learning-based credit card fraud detection system using a dataset of transactions provided in the `creditcard.csv` file. The system aims to accurately identify fraudulent transactions from legitimate ones using classification algorithms.
 link for csv file --> https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
 ---
